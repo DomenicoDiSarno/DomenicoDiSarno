@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DomenicoDiSarno
-- 👀 I’m interested in Front End development, C++, Game development
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Chess, Cooking, Dogs, Play Music, Software development
+- 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on indie games 
 - 📫 How to reach me: https://www.linkedin.com/in/domenicodisarno/
 
